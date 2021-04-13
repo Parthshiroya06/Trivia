@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="maintextStyle">
+        <item name="android:layout_width">98dp</item>
+        <item name="android:layout_height">38dp</item>
+        <item name="android:layout_marginTop">16dp</item>
+        <item name="android:fontFamily">@font/roboto_medium</item>
+    </style>
+
+    <style name="buttonStyle">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">@dimen/button_marring</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:textColor">@color/teal_200</item>
+    </style>
+</resources>
